@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(65, 65, 153);
+    background-image: url(https://images.unsplash.com/photo-1713727967827-b04e5eab7d3a?q=80&w=2004&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
 }
 .pamatlaukums{
     background-color: rgb(230, 97, 114);
@@ -9,7 +9,7 @@ body {
     margin:auto;
 }
 .cataZina{
-    background-color: rgb(247, 252, 207);
+    background-color: rgb(226, 225, 210);
     height:430px;
     padding: 1%;
     overflow: scroll;
